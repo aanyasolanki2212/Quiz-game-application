@@ -1,2 +1,20 @@
-# Quiz-game-application
-A Python-based quiz game application that presents multiple-choice questions, validates user answers, calculates scores, and displays final results.
+# Quiz Game Application
+
+## Features
+- 5 Multiple Choice Questions (MCQs)
+- User Answer Validation
+- Score Tracking System
+- Performance Evaluation
+- Final Score Display
+
+## Technology Used
+- Python
+
+## Concepts Used
+- Lists
+- Loops
+- Conditional Statements
+- User Input Handling
+
+## Author
+Aanya Solanki
